@@ -1,7 +1,19 @@
 <h1 align="center">Hi! I'm Evelin Szymanski 👩🏻‍💻</h1>
 <h3 align="center">A student focusing on web development as Front-End Developer.</h3>
 
-- 📫 You can reach me at **evelinszy@gmail.com**
+📫 You can reach me at **evelinszy@gmail.com**
+
+🌱 I’m currently starting by the start, learning logic programming ans some technologies like:
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+💫 And as my knowledge improves, I'm starting to learn more about:
+
+- **TypeScript**
+- **ReactJS**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
