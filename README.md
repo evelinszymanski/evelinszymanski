@@ -3,7 +3,7 @@
 
 📫 You can reach me at **evelinszy@gmail.com**
 
-🌱 I’m currently starting by the start, learning logic programming ans some technologies like:
+🌱 I’m currently starting by the start, learning logic programming and some technologies like:
 
 - **HTML5**
 - **CSS3**
