@@ -12,7 +12,9 @@
 - **TypeScript**
 - **ReactJS**
 
-📫 You can reach me at **evelinszy@gmail.com**
+🌸 Also spending my free time watching series, animes and playing videogames! hehe
+
+📫 If you wanna, you can reach me at **evelinszy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
