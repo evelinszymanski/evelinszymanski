@@ -1,16 +1,17 @@
 <h1 align="center">Hi! I'm Evelin Szymanski 👩🏻‍💻</h1>
-<h3 align="center">A student focusing on web development as Front-End Developer.</h3>
+<h3 align="center">A developer passionate about Frontend.</h3>
 
-🌱 I’m currently starting by the start, learning logic programming and some technologies like:
+🌱 Always learning somethins about some technologies like:
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+- **JavaScript (ES6+)**
+- **JQuery**
+- **React**
 
-💫 And as my knowledge improves, I'm starting to learn more about:
+💫 And as my knowledge improves, I'm focusing even more in:
 
 - **TypeScript**
-- **ReactJS**
+- **React Native**
+- **Next.js**
 
 📫 If you wanna, you can reach me at **evelinszy@gmail.com**
 
