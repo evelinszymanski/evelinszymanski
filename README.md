@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Evelin Szymanski 👩🏻‍💻</h1>
 <h3 align="center">A developer passionate about Frontend.</h3>
 
-🌱 Always learning somethins about some technologies like:
+🌱 Always learning about some technologies like:
 
 - **JavaScript (ES6+)**
 - **JQuery**
